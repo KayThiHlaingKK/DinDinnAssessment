@@ -1,6 +1,7 @@
 # DinDinnAssessment
 
 Objective 
+
 - Proper usage of Swift language features
 - Kingfisher (Image)
 - Clean Architecture (VIPER)
@@ -9,6 +10,7 @@ Objective
 
 
 User Guide
+
 When you open the application, there are product lists at home page.
 You can mark as favourite item by clicking favourite button if you like,
 and you can also unfavourite it back by clicking this button again.
